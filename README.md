@@ -53,7 +53,7 @@ file rpcapd
 copy rpcapd to your OpenWrt device,run cmd
 
 ```shell
-./rpcapd -n
+./rpcapd -n -p 2232
 ```
 
 ```shell
